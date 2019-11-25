@@ -1,0 +1,13 @@
+R_004:2:Standard:Available:Close to the subway:null
+R_004_CUS889_01102019:01/10/2019:06/10/2019:06/10/2019:495.0:0.0
+S_001:6:Suite:Available:26/09/2019:WiFi, TV, Spa, Spa:S_001-Small.jpg
+S_001_CUS002_17092019:17/09/2019:23/09/2019:23/09/2019:2997.0:0.0
+S_001_CUS001_10092019:10/09/2019:15/09/2019:15/09/2019:4995.0:0.0
+R_003:4:Standard:Rented:WiFi, TV, Mini Fridge:R_003-Small.jpg
+R_003_CUS001_01102019:01/10/2019:06/10/2019:none:none:none
+R_002:2:Standard:Available:WiFi, TV, Mini Fridge:R_002-Small.jpg
+S_003:6:Suite:Available:26/09/2019:WiFi, TV, Spa, City View:S_003-Small.jpg
+R_001:1:Standard:Available:WiFi, TV, Mini Fridge:R_001-Small.jpg
+R_001_CUS004_22092019:22/09/2019:27/09/2019:27/09/2019:236.0:0.0
+R_001_CUS003_16092019:16/09/2019:20/09/2019:20/09/2019:295.0:0.0
+S_002:6:Suite:Available:26/09/2019:WiFi, TV, Spa, Sauna:S_002-Small.jpg
